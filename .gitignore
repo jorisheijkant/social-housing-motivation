@@ -1,0 +1,5 @@
+__pycache__
+output/listing/*
+!output/listing/.gitkeep
+output/listings/*
+!output/listings/.gitkeep
